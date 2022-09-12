@@ -1,22 +1,5 @@
 
 
-&nbsp;
-
-<a href="https://ghost.org/"><img src="https://user-images.githubusercontent.com/353959/169805900-66be5b89-0859-4816-8da9-528ed7534704.png" alt="Fiercely independent, professional publishing. Ghost is the most popular open source, headless Node.js CMS which already works with all the tools you know and love." /></a>
-
-&nbsp;
-
-<a href="https://ghost.org/pricing/#gh-light-mode-only" target="_blank"><img src="https://user-images.githubusercontent.com/65487235/157849437-9b8fcc48-1920-4b26-a1e8-5806db0e6bb9.png" alt="Ghost(Pro)" width="165px" /></a>
-<a href="https://ghost.org/pricing/#gh-dark-mode-only" target="_blank"><img src="https://user-images.githubusercontent.com/65487235/157849438-79889b04-b7b6-4ba7-8de6-4c1e4b4e16a5.png" alt="Ghost(Pro)" width="165px" /></a>
-
-The easiest way to get a production instance deployed is with our official **[Ghost(Pro)](https://ghost.org/pricing/)** managed service. It takes about 2 minutes to launch a new site with worldwide CDN, backups, security and maintenance all done for you.
-
-For most people this ends up being the best value option cause of [how much time it saves](https://ghost.org/docs/hosting/) — and 100% of revenue goes to the Ghost Foundation; funding the maintenance and further development of the project itself. So you’ll be supporting open source software *and* getting a great service!
-
-If you prefer to run on your own infrastructure, we also offer official 1-off installs and managed support and maintenance plans via **[Ghost(Valet)](https://valet.ghost.org)** - which can save a substantial amount of developer time and resources.
-
-&nbsp;
-
 # Quickstart install
 
 If you want to run your own instance of Ghost, in most cases the best way is to use our **CLI tool**
@@ -51,22 +34,5 @@ For anyone wishing to contribute to Ghost or to hack/customize core files we rec
 
 &nbsp;
 
-# Ghost sponsors
 
-We'd like to extend big thanks to our sponsors and partners who make Ghost possible. If you're interested in sponsoring Ghost and supporting the project, please check out our profile on [GitHub sponsors](https://github.com/sponsors/TryGhost) :heart:
 
-**[DigitalOcean](https://m.do.co/c/9ff29836d717)** • **[Fastly](https://www.fastly.com/)**
-
-&nbsp;
-
-# Getting help
-
-You can find answers to a huge variety of questions, along with a large community of helpful developers over on the [Ghost forum](https://forum.ghost.org/) - replies are generally very quick. **Ghost(Pro)** customers also have access to 24/7 email support.
-
-To stay up to date with all the latest news and product updates, make sure you [subscribe to our blog](https://ghost.org/blog/) — or you can always follow us [on Twitter](https://twitter.com/Ghost), if you prefer your updates bite-sized and facetious. :saxophone::turtle:
-
-&nbsp;
-
-# Copyright & license
-
-Copyright (c) 2013-2022 Ghost Foundation - Released under the [MIT license](LICENSE). Ghost and the Ghost Logo are trademarks of Ghost Foundation Ltd. Please see our [trademark policy](https://ghost.org/trademark/) for info on acceptable usage.
